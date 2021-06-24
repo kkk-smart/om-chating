@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Orbitron:wght@500&display=swap');
+.btn-success
+{
+    float: left;
+    position: fixed;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    font-family: Caveat;
+    width: 500px;
+}
+.btn-warning
+{
+    float: left;
+    position: fixed;
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    font-family: Caveat;
+    width: 500px;
+}
+h1
+{
+    background-color: #33b5e5;
+    color: white;
+    font-family: Orbitron;
+    text-align: center;
+}
+body
+{
+    text-align: center;
+}
+.logo
+{
+    height: 100px;
+}
+.btn-danger
+{
+    float: left;
+    position: fixed;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    font-family: Caveat;
+    width: 500px;
+}
+b
+{
+    float: left;
+    position: fixed;
+    background-color: White;
+    color: black;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    font-family: Caveat;
+}
+.dr 
+{
+    border: 10px solid rgb(223, 69, 64);
+    border-radius: 5px;
+}
